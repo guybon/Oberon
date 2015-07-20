@@ -1,2 +1,2 @@
 # Oberon
-Oberon fylosophy
+Oberon philosophy
